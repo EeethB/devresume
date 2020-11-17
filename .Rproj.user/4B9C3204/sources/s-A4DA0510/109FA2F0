@@ -3,22 +3,22 @@
     "path": "~/r-projects/devresume/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "1137714528",
+    "hash": "384820054",
     "contents": "",
     "dirty": false,
     "created": 1605625678642.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "29,1",
-        "scrollLine": "12"
+        "cursorPosition": "2,16",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1605628201,
+    "lastKnownWriteTime": 1605632817,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1605628201358,
+    "last_content_update": 1605632817185,
     "read_only": false,
     "read_only_alternatives": []
 }
